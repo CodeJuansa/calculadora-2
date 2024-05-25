@@ -31,4 +31,3 @@ function sumar() {
     document.getElementById('num2').value="";
     document.getElementById('resultado').innerHTML="";
   }
-+  
